@@ -1,4 +1,3 @@
-# Mai_Sherif_DV
 # Hi, I'm Mai Sherif
 
 Electronics and Communication Engineer
